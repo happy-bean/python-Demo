@@ -35,5 +35,5 @@ Python 特点
 
     10.可嵌入: 你可以将Python嵌入到C/C++程序，让你的程序的用户获得"脚本化"的能力。
 
-
-    参考 菜鸟教程 - http://www.runoob.com/python/python-tutorial.html
+本程序参考菜鸟教程，属于个人学习整理
+    菜鸟教程 - http://www.runoob.com/python/python-tutorial.html
