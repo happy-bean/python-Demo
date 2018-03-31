@@ -184,3 +184,6 @@ m.start(0)  # 可省略 0
 m.end(0)  # 可省略 0
 
 m.span(0)  # 可省略 0
+
+
+# 参考 http://www.runoob.com/python/python-reg-expressions.html
